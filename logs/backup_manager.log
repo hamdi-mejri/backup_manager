@@ -1,0 +1,15 @@
+[11/07/2025 14:05] Error: backup_service fonctionne deja
+[11/07/2025 14:05] New schedule added: test;14:06;office_docs2
+[11/07/2025 14:05] New schedule added: test;14:07;office_docs2
+[11/07/2025 14:06] backup_service stopped
+[11/07/2025 14:06] backup_service started
+[11/07/2025 14:06] New schedule added: test;14:07;office_docs2
+[11/07/2025 14:07] Show schedules list
+[11/07/2025 14:08] Show backups list
+[11/07/2025 14:08] Show schedules list
+[11/07/2025 14:08] Schedule at index 0 deleted
+[11/07/2025 14:08] Show schedules list
+[11/07/2025 14:08] backup_service stopped
+[11/07/2025 14:08] Error: backup_service not running
+[11/07/2025 14:08] backup_service started
+[11/07/2025 14:09] Error: can't find schedule at index 10
