@@ -13,3 +13,7 @@
 [11/07/2025 14:08] Error: backup_service not running
 [11/07/2025 14:08] backup_service started
 [11/07/2025 14:09] Error: can't find schedule at index 10
+[05/08/2025 13:55] backup_service started
+[05/08/2025 13:55] Error: backup_service fonctionne deja
+[05/08/2025 13:56] Error: backup_service fonctionne deja
+[05/08/2025 15:13] Error: backup_service fonctionne deja
